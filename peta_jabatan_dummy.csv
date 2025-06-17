@@ -1,0 +1,7 @@
+id,parentId,name,positionName
+1,,Direktur Utama,Pimpinan
+2,1,Kabag Umum,Bidang Umum
+3,1,Kabag Keuangan,Bidang Keuangan
+4,2,Kasubbag Umum,Sub Umum
+5,3,Staf Keuangan,Staf
+6,2,Staf Umum,Staf
