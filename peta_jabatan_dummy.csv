@@ -1,7 +1,17 @@
 id,parentId,name
-1,,CEO
-2,1,Direktur A
-3,1,Direktur B
-4,2,Manager A
-5,2,Manager B
-6,4,Staf A
+1,,Kepala Biro OKK
+2,1,Kepala Bagian Ortalak
+3,1,Kepala Bagian SDM
+4,1,Kepala Bagian Hukum
+5,1,Kepala Bagian AKK
+6,2,Kepala Subbagian Organisasi
+7,2,Kepala Subbagian Ketatalaksanaan
+8,2,Kepala Fasilitasi Reformasi Birokrasi
+9,3,Kepala Subbagian Pengembangan Kapasitas Sumber Daya Manusia
+10,3,Kepala Subbagian Kerja sama
+11,3,Kepala Subbagian Fasilitasi Jabatan Fungsional
+12,4,Kepala Subbagian Produk Hukum
+13,4,Kepala Subbagian Penelaah dan Bantuan Hukum
+14,5,Kepala Subbagian Administrasi Keanggotaan
+15,5,Kepala Subbagian Administrasi Kepegawaian
+16,5,Kepala Subbagian Kesejahteraan
